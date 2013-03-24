@@ -9,6 +9,9 @@ omakeの使用例
 
 
 [Batteries Moduleを使用する]
+
 ・ocamlfindを使うようにする
+
 USE_OCAML_FIND = true
+
 ・あとはBatteriesの使い方のところに書いてあるのと同じことをする
